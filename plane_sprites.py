@@ -1,3 +1,4 @@
+#2019-10-22上传
 import random
 import pygame
 import os
@@ -108,3 +109,4 @@ class Bullet(GameSprite):
         pass
     def __del__(self):
         print("子弹被销毁...")
+        #haha
